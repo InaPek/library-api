@@ -1,0 +1,17 @@
+{
+  "name": "library-api",
+  "version": "1.0.0",
+  "description": "Library API on Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["express", "api", "crud"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
+
