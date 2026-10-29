@@ -6,12 +6,16 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["express", "api", "crud"],
+  "keywords": [
+    "express",
+    "api",
+    "crud"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "express": "^5.3.0"
+    "express": "^5.3.0",
+    "multer": "^2.5.0"
   }
 }
-
